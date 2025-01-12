@@ -58,8 +58,8 @@ Welcome to **The Mirror Network Project**, an experimental platform exploring th
 
 ## 📚 **Documentation**
 For deeper insights into the platform:
-- 📖 **[Website Documentation](http://themirrornetwork.com/docs):** Learn about features and technical details.
-- 📡 **[API Documentation](http://themirrornetwork.com/api):** (Coming soon)
+- 📖 **[Website Documentation]():** (Coming soon)
+- 📡 **[API Documentation]():** (Coming soon)
 
 ---
 
